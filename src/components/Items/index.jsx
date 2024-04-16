@@ -8,7 +8,7 @@ import nokia from "../../assets/nokia.svg";
 import black from "../../assets/blackbarry.svg";
 function Items() {
   return (
-    <>
+    <>  
       <div className="bg-[#1f2a40] rounded-lg py-[10px] pl-3 relative pr-16 w-[1080px] mx-auto mb-4 flex justify-between items-center">
         <div className="title-img flex items-center gap-2 w-[150px]">
           <img src={apple} alt="apple" />
