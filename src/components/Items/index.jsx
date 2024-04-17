@@ -23,9 +23,9 @@ function Items() {
           Available
         </span>
         <span className="flex gap-4">
-          <MdRemoveRedEye className="text-[#6C757D] text-xl cursor-pointer"/>
-          <MdModeEditOutline className="text-[#6C757D] text-xl cursor-pointer"/>
-          <FaRegTrashAlt className="text-[#6C757D] text-xl cursor-pointer"/>
+          <MdRemoveRedEye className="text-[#6C757D] text-xl cursor-pointer hover:text-slate-600 duration-300"/>
+          <MdModeEditOutline className="text-[#6C757D] text-xl cursor-pointer hover:text-slate-600 duration-300"/>
+          <FaRegTrashAlt className="text-[#6C757D] text-xl cursor-pointer hover:text-slate-600 duration-300"/>
         </span>
       </div>
       
@@ -43,9 +43,9 @@ function Items() {
         No Stock
         </span>
         <span className="flex gap-4">
-          <MdRemoveRedEye className="text-[#6C757D] text-xl cursor-pointer"/>
-          <MdModeEditOutline className="text-[#6C757D] text-xl cursor-pointer"/>
-          <FaRegTrashAlt className="text-[#6C757D] text-xl cursor-pointer"/>
+          <MdRemoveRedEye className="text-[#6C757D] text-xl cursor-pointer hover:text-slate-600 duration-300"/>
+          <MdModeEditOutline className="text-[#6C757D] text-xl cursor-pointer hover:text-slate-600 duration-300"/>
+          <FaRegTrashAlt className="text-[#6C757D] text-xl cursor-pointer hover:text-slate-600 duration-300"/>
         </span>
       </div>
       <div className="bg-[#1f2a40] rounded-lg py-[10px] pl-3 relative pr-16 w-[1080px] mx-auto mb-4 flex justify-between items-center">
@@ -62,9 +62,9 @@ function Items() {
         Flash Sale
         </span>
         <span className="flex gap-4">
-          <MdRemoveRedEye className="text-[#6C757D] text-xl cursor-pointer"/>
-          <MdModeEditOutline className="text-[#6C757D] text-xl cursor-pointer"/>
-          <FaRegTrashAlt className="text-[#6C757D] text-xl cursor-pointer"/>
+          <MdRemoveRedEye className="text-[#6C757D] text-xl cursor-pointer hover:text-slate-600 duration-300"/>
+          <MdModeEditOutline className="text-[#6C757D] text-xl cursor-pointer hover:text-slate-600 duration-300"/>
+          <FaRegTrashAlt className="text-[#6C757D] text-xl cursor-pointer hover:text-slate-600 duration-300"/>
         </span>
       </div>
       <div className="bg-[#1f2a40] rounded-lg py-[10px] pl-3 relative pr-16 w-[1080px] mx-auto mb-4 flex justify-between items-center">
@@ -81,9 +81,9 @@ function Items() {
         Available
         </span>
         <span className="flex gap-4">
-          <MdRemoveRedEye className="text-[#6C757D] text-xl cursor-pointer"/>
-          <MdModeEditOutline className="text-[#6C757D] text-xl cursor-pointer"/>
-          <FaRegTrashAlt className="text-[#6C757D] text-xl cursor-pointer"/>
+          <MdRemoveRedEye className="text-[#6C757D] text-xl cursor-pointer hover:text-slate-600 duration-300"/>
+          <MdModeEditOutline className="text-[#6C757D] text-xl cursor-pointer hover:text-slate-600 duration-300"/>
+          <FaRegTrashAlt className="text-[#6C757D] text-xl cursor-pointer hover:text-slate-600 duration-300"/>
         </span>
       </div>
       <div className="bg-[#1f2a40] rounded-lg py-[10px] pl-3 relative pr-16 w-[1080px] mx-auto mb-4 flex justify-between items-center">
@@ -100,9 +100,9 @@ function Items() {
         No Stock
         </span>
         <span className="flex gap-4">
-          <MdRemoveRedEye className="text-[#6C757D] text-xl cursor-pointer"/>
-          <MdModeEditOutline className="text-[#6C757D] text-xl cursor-pointer"/>
-          <FaRegTrashAlt className="text-[#6C757D] text-xl cursor-pointer"/>
+          <MdRemoveRedEye className="text-[#6C757D] text-xl cursor-pointer hover:text-slate-600 duration-300"/>
+          <MdModeEditOutline className="text-[#6C757D] text-xl cursor-pointer hover:text-slate-600 duration-300"/>
+          <FaRegTrashAlt className="text-[#6C757D] text-xl cursor-pointer hover:text-slate-600 duration-300"/>
         </span>
       </div>
     </>
